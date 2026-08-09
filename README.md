@@ -17,6 +17,6 @@ A relational database mini project for managing student clubs and campus events 
 | `/sql`  | Schema DDL, sample data, queries |
 
 ## Tech Stack
-- Database: MySQL
+- Database: Oracle Database 26ai
 - Design: ER Diagram (crow's foot notation)
 - Version Control: Git & GitHub
